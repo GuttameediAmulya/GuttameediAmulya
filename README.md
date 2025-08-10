@@ -1,5 +1,4 @@
-## Hi there 👋
-💻 MCA Student | Aspiring Software Developer
+## Hi 👋, Iam Amulya
 
 🚀 I’m Passionate about Python, Web Development, and Problem Solving 
 
