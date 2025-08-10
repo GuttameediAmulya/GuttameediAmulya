@@ -1,11 +1,11 @@
 ## Hi there 👋
 💻 MCA Student | Aspiring Software Developer
 
-🚀 Passionate about Python, Web Development, and Problem Solving 
+🚀 I’m Passionate about Python, Web Development, and Problem Solving 
 
-📚 Currently pursuing Master’s in Computer Applications 
+🌱 I’m currently learning Full Stack Development, Exploring Data Structures & Algorithms
 
-🌱 Learning Full Stack Development | Exploring Data Structures & Algorithms
+🤝 I’m looking for help with Internships,open sources contributions,and job opportunities
 
 📂 Projects: Student Management System, Amazon Clone UI 
 
